@@ -6,17 +6,24 @@ To design a comprehensive e-commerce sales analysis dashboard that provides acti
 - <a href="https://github.com/dholakiar19/ECom-Dashoard/blob/main/EComm%20Sales%20Data.xlsx">Dataset</a>
 ## Questions (KPIs)
 •	How does the total sales revenue compare month over month?
+
 •	Which product sub-categories contribute the most to the profit?
+
 •	Which regions or customer segments place the highest number of orders?
+
 •	Which states or regions generate the highest sales?
+
 •	Which customer segment (e.g., Consumer, Corporate, Home Office) contributes most to revenue and profit?
+
 •	Total no orders placed.
 
 •	Dashboard Interaction <a href="https://github.com/dholakiar19/ECom-Dashoard/blob/main/EComm%20Analysis%20image.png">View Dasboard</a>
 
 ## Process
 •	Verify the data for any missing values and sort them accordingly.
+
 •	 Made sure the data was consistent and all the values were in proper format.
+
 •	As per the questions, the pivot tables were created.
 
 ## Dashboard
@@ -24,8 +31,11 @@ To design a comprehensive e-commerce sales analysis dashboard that provides acti
 
 ## Project Insight 
 •	Monthly sales and profit trends indicate that March and October were high-performing months in terms of revenue, with October generating the highest profit of ₹138.80K.
+
 •	Clothing: The most profitable category, contributing ₹17.63K to total profit (61.87% share of sales).
+
 •	A heatmap highlights the geographical sales concentration: The top-performing regions are Central and North India, with Central India leading at ₹310.60K.
+
 •	The dashboard offers filters for the year (2018, 2019), region (Central, North, East, South, West), and segment (Consumer, Corporate, Home Office). This allows for a granular understanding of performance across various dimensions.
 
 ## Conclusio
