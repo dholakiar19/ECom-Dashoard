@@ -38,7 +38,7 @@ To design a comprehensive e-commerce sales analysis dashboard that provides acti
 
 •	The dashboard offers filters for the year (2018, 2019), region (Central, North, East, South, West), and segment (Consumer, Corporate, Home Office). This allows for a granular understanding of performance across various dimensions.
 
-## Conclusio
+## Conclusion
 The dashboard provides actionable insights into sales performance and profitability. By leveraging these findings, the business can enhance strategic planning, improve operational efficiency, and maximize revenue growth across categories and regions.
 
 
